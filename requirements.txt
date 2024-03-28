@@ -1,0 +1,5 @@
+beautifulsoup4
+requests
+fitz
+boto3
+openai
